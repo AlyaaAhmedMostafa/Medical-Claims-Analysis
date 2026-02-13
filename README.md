@@ -10,14 +10,14 @@ This report provides a comprehensive analysis of medical claims performance acro
 - **Total Claims Processed:** 21,532 claims
 - **Total Claims Value:** $6,659,314
 - **Average Claim Cost:** $309
-- **Overall Rejection Rate:** 32% ⚠️ *Critical Issue*
+- **Overall Rejection Rate:** 32%  *Critical Issue*
 - **Approved/Rejected Ratio:** 0.72
 
 ---
 
 ## Critical Findings & Red Flags
 
-### 🚨 1. Unacceptably High Rejection Rate (32%)
+###  1. Unacceptably High Rejection Rate (32%)
 
 The overall claim rejection rate of **32%** is significantly above industry benchmarks (typically 5-10%). This represents:
 - **6,806 rejected claims** out of 21,532 total
@@ -27,7 +27,7 @@ The overall claim rejection rate of **32%** is significantly above industry benc
 
 **Immediate Impact:** High rejection rates indicate systemic issues in claims processing, provider documentation, or policy enforcement that require urgent remediation.
 
-### 🚨 2. Severe Provider Performance Disparity
+###  2. Severe Provider Performance Disparity
 
 **Al-Hayat Hospital** shows alarming performance metrics:
 - Rejection Rate: **58.99%** (nearly 6 in 10 claims rejected)
@@ -44,7 +44,7 @@ This single provider accounts for nearly half of all claims but maintains an uns
 - Elite Hospital: 1.79% rejection rate (32x better performance)
 - Nile Medical: 8.99% rejection rate (6.5x better performance)
 
-### 🚨 3. Surgery Claims - Highest Rejection Category
+###  3. Surgery Claims - Highest Rejection Category
 
 Among medical services, **Surgery** shows the highest rejection rate:
 - Rejection Rate: **38.30%**
@@ -57,7 +57,7 @@ This requires immediate investigation into:
 - Coverage policy clarity
 - Provider communication
 
-### 🚨 4. Dramatic Volume Decline
+###  4. Dramatic Volume Decline
 
 Claims volume shows an **alarming 96% decline** from January to December:
 - January: 5,699 claims
@@ -123,7 +123,7 @@ Claims volume shows an **alarming 96% decline** from January to December:
 
 | Medical Service | Claims | Total Value | Avg Value | Rejection Rate |
 |----------------|--------|-------------|-----------|----------------|
-| Surgery | 4,361 | $1,261,487.66 | $289.27 | **38.30%** ⚠️ |
+| Surgery | 4,361 | $1,261,487.66 | $289.27 | **38.30%**  |
 | Pharmacy | 4,415 | $1,363,046.02 | $308.73 | 15.93% |
 | Blood Test | 4,278 | $1,241,008.98 | $290.09 | 15.88% |
 | MRI Scan | 4,268 | $1,519,766.88 | $356.08 | 15.50% |
@@ -176,9 +176,9 @@ Claims volume shows an **alarming 96% decline** from January to December:
 
 | Metric | Days | Status |
 |--------|------|--------|
-| Average Pending Aging | 103 | ⚠️ Above target |
-| Median Pending Aging | 245 | ⚠️ Critical delay |
-| Maximum Pending Aging | 293 | ⚠️ Unacceptable |
+| Average Pending Aging | 103 |  Above target |
+| Median Pending Aging | 245 |  Critical delay |
+| Maximum Pending Aging | 293 |  Unacceptable |
 | Total Pending Claims | 9,857 | Large backlog |
 
 **Critical Issue:** The median pending aging of 245 days (8+ months) indicates severe processing delays that likely contribute to member dissatisfaction and operational inefficiency.
